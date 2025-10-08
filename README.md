@@ -7,7 +7,7 @@ detection in IoT networks.
 It supports scalable data ingestion, feature selection, model optimization using cosine-annealing,
 SHAP-based interpretability, and real-time JSON alert generation.
 
-�� Features
+## Features
  Spark-based preprocessing and mutual-information feature selection
  Optimized MLP model for large-scale IoT attack detection
  Explainability through SHAP visualizations
@@ -36,8 +36,8 @@ If you use this framework in your research, please cite:
 @article{CyberDetectMLP2025,
 title={CyberDetect-MLP: A Big Data-Enabled Optimized Deep Learning Framework for Scalable
 Cyberattack Detection in IoT Environments},
-author={Talluri Upender 1* , Dr. M. Neelakantappa 2 , Dr. C. Prakasa Rao 3 , Dr. Jaideep Gera 4 , Vuyyuru Lakshma
-Reddy 5 , Nagendar Yamsani 6},
+author={Talluri Upender , Dr. M. Neelakantappa , Dr. C. Prakasa Rao , Dr. Jaideep Gera  , Vuyyuru Lakshma
+Reddy , Nagendar Yamsani },
 year={2025},
 journal={Under Review, SCI Journal, Scientific Reports}
 }
