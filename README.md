@@ -42,6 +42,6 @@ year={2025},
 journal={Under Review, SCI Journal, Scientific Reports}
 }
 
-�� License
+## License
 Released under the MIT License.
 Keywords: cybersecurity · IoT · deep learning · big data · explainable AI
