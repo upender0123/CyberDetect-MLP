@@ -15,11 +15,11 @@ SHAP-based interpretability, and real-time JSON alert generation.
  Modular and extensible architecture
 
 ⚙️ Installation
-git clone https://github.com/&lt;your-username&gt;/CyberDetectMLP.git
+git clone https://github.com/upender0123/CyberDetect-MLP.git
 cd CyberDetectMLP
 pip install -r requirements.txt
 
-�� Usage
+## Usage
 1. Place your dataset file as data/raw/ton_iot.csv
 2. Run the complete workflow:
 3. python main.py
@@ -30,13 +30,14 @@ o Trained model: saved_models/cyberdetect_mlp.h5
 o Explainability plot: shap_summary.png
 o Alerts: alerts.json
 
-�� Citation
+## Citation
 If you use this framework in your research, please cite:
 
 @article{CyberDetectMLP2025,
 title={CyberDetect-MLP: A Big Data-Enabled Optimized Deep Learning Framework for Scalable
 Cyberattack Detection in IoT Environments},
-author={Your Name},
+author={Talluri Upender 1* , Dr. M. Neelakantappa 2 , Dr. C. Prakasa Rao 3 , Dr. Jaideep Gera 4 , Vuyyuru Lakshma
+Reddy 5 , Nagendar Yamsani 6},
 year={2025},
 journal={Under Review, SCI Journal, Scientific Reports}
 }
