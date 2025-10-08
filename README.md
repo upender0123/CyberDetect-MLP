@@ -8,11 +8,11 @@ It supports scalable data ingestion, feature selection, model optimization using
 SHAP-based interpretability, and real-time JSON alert generation.
 
 ## Features
- Spark-based preprocessing and mutual-information feature selection
- Optimized MLP model for large-scale IoT attack detection
- Explainability through SHAP visualizations
- JSON-based real-time alert generation
- Modular and extensible architecture
+Spark-based preprocessing and mutual-information feature selection
+Optimized MLP model for large-scale IoT attack detection
+Explainability through SHAP visualizations
+JSON-based real-time alert generation
+Modular and extensible architecture
 
 ⚙️ Installation
 git clone https://github.com/upender0123/CyberDetect-MLP.git
