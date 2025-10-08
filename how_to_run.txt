@@ -1,0 +1,9 @@
+1. Place your TON_IoT CSV as data/raw/ton_iot.csv
+2. pip install -r requirements.txt
+3. Run: python main.py
+Outputs:
+ - data/processed/preprocessed.csv
+ - data/features/features_selected.csv
+ - saved_models/cyberdetect_mlp.h5
+ - shap_summary.png
+ - alerts.json
